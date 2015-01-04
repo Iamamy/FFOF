@@ -1,4 +1,3 @@
-# -*- coding: utf-8 -*-
 # maxCounters
 """
 You are given N counters, initially set to 0, and you have two possible operations on them:
